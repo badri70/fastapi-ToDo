@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pyd
+*.pyo
+*.pdb
+*.egg-info/
+*.egg
+*.env
+.env
+.venv/
+venv/
+ENV/
+env/
+build/
+dist/
+.eggs/
+*.log
+
+# VS Code
+.vscode/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+.pyre/
+
+# pytest
+.pytest_cache/
+
+# alembic
+alembic.ini
+migrations/
+
+# SQLite
+*.sqlite3
+*.db
+
+# MacOS
+.DS_Store
+
+# dotenv
+.env.*
+.envrc
+
+# Coverage
+htmlcov/
+.coverage
+.tox/
+.cache/
+.nox/
+
+# FastAPI static/media
+static/
+media/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Other
+*.swp
+*.bak
