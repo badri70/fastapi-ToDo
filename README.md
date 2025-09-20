@@ -54,7 +54,3 @@ docker-compose up --build
 
 - **Запуск приложения локально:**  
   `uvicorn app.main:app --reload`
-
-## Лицензия
-
-MIT
